@@ -30,5 +30,5 @@ def sort_array_char_count(integers)
 end 
 
 def swap_elements(integers)
-    a [1], b [2] = a [2], b [1]
+    integers [1], integers [2] = integers [2], integers [1]
 end 
