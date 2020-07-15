@@ -30,7 +30,7 @@ def sort_array_char_count(integers)
 end 
 
 def swap_elements(integers)
-  integers |a, b|
+  integers.swap! |a, b|
     a [1], b [2] = a [2], b [1]
 end
 end 
