@@ -44,6 +44,6 @@ def kesha_maker(names)
 end
 
 def find_a(strings)
-  strings.start_with? do |a|
+  strings. do |a|
     
 end
