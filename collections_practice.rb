@@ -45,5 +45,4 @@ end
 
 def find_a(strings)
   strings.start_with? |a|
-  end
 end
