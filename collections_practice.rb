@@ -42,3 +42,7 @@ def kesha_maker(names)
     name [2] = "$"
   end
 end
+
+def find_a(strings)
+  strings.start_with?
+end
