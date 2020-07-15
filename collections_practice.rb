@@ -48,3 +48,7 @@ def find_a(strings)
    a[0] == "a"  
   end 
  end
+ 
+ def sum_array(integers)
+   integers.sum
+ end 
