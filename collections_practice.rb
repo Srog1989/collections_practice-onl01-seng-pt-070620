@@ -52,3 +52,11 @@ def find_a(strings)
  def sum_array(integers)
    integers.sum
  end 
+ 
+ def add_s(words)
+   words.each_with_index do |item, index|
+     if index != 1 
+       item<< "s"
+    end
+  end 
+ end
