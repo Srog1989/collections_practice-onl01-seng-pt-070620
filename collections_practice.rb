@@ -31,6 +31,6 @@ end
 
 def swap_elements(integers)
   integers.swap do |a, b|
-    integers [1], integers [2] = integers [2], integers [1]
+    a [1], b [2] = a [2], b [1]
 end
 end 
